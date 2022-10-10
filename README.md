@@ -7,4 +7,3 @@ My encounter with Google Foobar was through an unseal channel and it may not app
 This repository presents the Foobar challenges I were given and my solutions to the challenges written in python 2.7. 
 
 I have got one free referral link to anyone who may be interested to participate in the Foobar challenge so please get in touch if you would like to push your programming, logical, mathematical, and creative skills. 
-![image](https://user-images.githubusercontent.com/6762282/194884839-3ed88e1f-4afe-432f-aff1-d1b42b0f62d7.png)
