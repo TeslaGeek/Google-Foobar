@@ -33,3 +33,11 @@ The challenges can be solved in either Java or Python. There are documented cons
 * Your code will run inside a Python 2.7.6 sandbox. Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib.
 
 * There is a time limit for each question (seven days per challenge in levels one to three, 14 days per challenege in level four and 22 days in level five). However, the solutions can be submitted before the deadline and the next challenge can be requested immediately.
+
+# My challenges
+
+* Level 1: Minion work assignment
+* Level 2: Hey! I already did that and Bunny worker locations
+* Level 3: Find the access codes, Fuel injection perfection and Dooms Day
+* Level 4: Escape pod and coming soon
+* Level 5: coming soon
