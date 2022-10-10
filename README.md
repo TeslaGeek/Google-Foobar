@@ -16,6 +16,20 @@ Google Foobar challenge is a set of programming challenges. After searching Onli
 
 * Since many of the problem statements included explicit instructions about the parameters of the problem, I expected that the verification tests would include invalid or out-of-bounds input data. I quickly realized that the verification tests are only checking corner cases to make sure that you implement the algorithm correctly. In the interests of focusing on the solution and time saving, I omitted any bounds checking or assertions that weren't absolutely required.
 
-* Although not explicitly mentioned in python instructions in constraints.txt file for each challenge, the time complexity is a key issue in foobar coding. There could be many algorithms to solve each challenge however, the algorithm with less complexity and exceution time will pass the tests. If your code passes the given tests by the challenge and fails on tests run on the server, it is likely that your code's execution time is too high.
+* Although not explicitly mentioned in python instructions in constraints.txt file for each challenge, the time complexity is a key issue in foobar coding. There could be many algorithms to solve each challenge however, the algorithm with less complexity and exceution time will pass the tests. If your code passes the given tests by the challenge and fails on the hidden tests (on the server), it is likely that your code's execution time is too high.
 
 * Each challenge is authored to target a single algorithm or technique. Some were already known to me, others required a bit of learning which was fun. I used this as my guide: if my proposed approach was too complicated, I looked for something simpler.
+
+# The Challenges
+
+The challenges were grouped into five levels, one (1) through five (5). You must complete a challenge to request the next one. 
+
+Level one has one challenge, level two has two challenges, level three has three challenges (after completing this level you will get a free referral link and a request to be contacted by a recruiter), level four has two challenges and, level five has one challenge. You must complete all those in a level to advance to the next level.
+
+The interface / terminal provides test cases for each challenge. The inputs and expected outputs for the first few tests are documented, but each challenge also contains additional "hidden" tests. The test suite can be run at any time with the verify command. Once all tests are passing, the submit command will check the provided solution and proceed to the next challenge.
+
+The challenges can be solved in either Java or Python. There are documented constraints, such as no I/O and limited version/libraries:
+
+* Your code will run inside a Python 2.7.6 sandbox. Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib.
+
+* There is a time limit for each question (seven days per challenge in levels one to three, 14 days per challenege in level four and 22 days in level five). However, the solutions can be submitted before the deadline and the next challenge can be requested immediately.
