@@ -37,7 +37,7 @@ The challenges can be solved in either Java or Python. There are documented cons
 # My challenges
 
 * <a href = "Level 1"> Level 1: Minion work assignment </a>
-* Level 2: Hey! I already did that and <a href = "Level 2/Bunny worker locations">Bunny worker locations </a>
+* Level 2: Hey! I already did that and <a href = "Level 2/Bunny Worker Locations">Bunny worker locations </a>
 * Level 3: Find the access codes, Fuel injection perfection and Dooms Day
 * Level 4: Escape pod and coming soon
 * Level 5: coming soon
