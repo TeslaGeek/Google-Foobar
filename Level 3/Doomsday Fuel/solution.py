@@ -12,7 +12,8 @@
 #    (5) Get the first line of FR and then you have your probabilities.
 #    (6) Find the common denominator and return the int array how the specification has asked it to be formatted.
 #
-#       THIS HAS BEEN MY FAVOURITE CHALLENEGE SO FAR.
+#       THIS HAS BEEN MY FAVOURITE CHALLENEGE SO FAR. I have a background in robotics and absorbing Markov chains are important in leading
+#       a robotic arm to a stable state (terminal state).
 
 from fractions import Fraction
 from fractions import gcd
