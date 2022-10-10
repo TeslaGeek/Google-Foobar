@@ -36,7 +36,7 @@ The challenges can be solved in either Java or Python. There are documented cons
 
 # My challenges
 
-* <a href = "https://github.com/TeslaGeek/Google-Foobar/Level 1"> Level 1: Minion work assignment </a>
+* <a href = "Level 1"> Level 1: Minion work assignment </a>
 * Level 2: Hey! I already did that and Bunny worker locations
 * Level 3: Find the access codes, Fuel injection perfection and Dooms Day
 * Level 4: Escape pod and coming soon
