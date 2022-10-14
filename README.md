@@ -39,5 +39,5 @@ The challenges can be solved in either Java or Python. There are documented cons
 * Level 1: <a href = "Level 1"> Minion work assignment </a>
 * Level 2: <a href = "Level 2/Hey!AlreadyDidThat"> Hey! I already did that </a> and <a href = "Level 2/Bunny Worker Locations">Bunny worker locations </a>
 * Level 3: <a href = "Level 3/Find the Access Codes"> Find the access codes </a>, <a href = "Level 3/Fuel Injection Perfection"> Fuel injection perfection </a> and, <a href = "Level 3/Doomsday Fuel"> Doomsday Fuel</a>
-* Level 4: Escape pod and coming soon
+* Level 4: <a href = "Level 4/Running With Bunnies"> Escape pod </a> and <a href = "Level 4/Running With Bunnies"> Running With Bunnies </a>
 * Level 5: coming soon
